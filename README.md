@@ -1,4 +1,4 @@
-<div align="center"> <img width="140" src="https://komarev.com/ghpvc/?username=ordinaryhorrors&label=PROFILE+VIEWS&color=0a0901">
+<div align="center"><img width="140" src="https://komarev.com/ghpvc/?username=ordinaryhorrors&label=PROFILE+VIEWS&color=0a0901">
 
   <sub>this is a huge wip. bear with me!</sub>
   
