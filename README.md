@@ -1,7 +1,4 @@
 <div align="center"> <img width="95"src="https://komarev.com/ghpvc/?username=ordinaryhorrors&label=freaks+&color=0a0901">
 
-  <sub>this is a huge wip. bear with me!</sub>
-  
-  <sub>i am usually offtab. whisper to interact & c+h freely!</sub>
+<div align="left"> this is a work in progress <div align="right"> <img width="468" alt="image" src="https://github.com/user-attachments/assets/88f8db26-1727-4e98-bc8f-6b41742d0e27" />
 
-  <div align="center"> <img width="220" height="217" alt="ivan-ivantill" src="https://github.com/user-attachments/assets/5678958f-0f61-4d86-94d2-9a29c1883294" />
